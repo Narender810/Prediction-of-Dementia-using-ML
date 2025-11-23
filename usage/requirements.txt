@@ -1,0 +1,10 @@
+streamlit
+pillow
+streamlit_lottie
+streamlit-modal
+pandas
+joblib
+matplotlib
+seaborn
+scikit-learn
+xgboost

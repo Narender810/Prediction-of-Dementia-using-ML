@@ -1,0 +1,31 @@
+
+task-1:open command prompt from root dir and type the command:
+   
+    command:
+       
+        "conda create -n vm python=3.7.0"
+
+task-2:after the above command type below command in cmd:
+
+    command:
+
+        "conda activate vm"
+
+task-3: next type another command :
+
+    command:
+
+        "pip install -r requirements.txt"
+
+
+--------------------------now the installation part is completed then start the appication--------------------------------------------
+
+
+command:
+    "streamlit run ui.py"
+
+this command starts the application
+
+
+after this installation use launch.bat to run the application wihtout the terminal interference
+

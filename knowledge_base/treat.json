@@ -1,0 +1,96 @@
+{
+    "dementia_recommendations": [
+        {
+            "category": "Physical Activity",
+            "recommendations": [
+                {
+                    "title": "Regular Exercise",
+                    "description": "Engage in regular physical activity such as brisk walking, swimming, or dancing for at least 30 minutes most days of the week.",
+                    "details": "Exercise improves blood flow to the brain, reduces the risk of chronic diseases, and promotes overall brain health.",
+                    "video_url": "https://www.youtube.com/watch?v=example1"
+                },
+                {
+                    "title": "Strength Training",
+                    "description": "Incorporate strength training exercises using resistance bands or weights to maintain muscle mass and strength.",
+                    "details": "Strength training helps support balance and coordination, which can reduce the risk of falls and cognitive decline.",
+                    "video_url": "https://www.youtube.com/watch?v=example2"
+                },
+                {
+                    "title": "Yoga and Tai Chi",
+                    "description": "Practice yoga or tai chi to improve flexibility, balance, and mental relaxation.",
+                    "details": "Yoga and tai chi incorporate gentle movements, deep breathing, and meditation, which can reduce stress and improve cognitive function.",
+                    "video_url": "https://www.youtube.com/watch?v=example3"
+                }
+            ]
+        },
+        {
+            "category": "Healthy Diet",
+            "recommendations": [
+                {
+                    "title": "Mediterranean Diet",
+                    "description": "Follow a Mediterranean-style diet rich in fruits, vegetables, whole grains, fish, nuts, and olive oil.",
+                    "details": "The Mediterranean diet is associated with a lower risk of cognitive decline and may help protect against Alzheimer's disease.",
+                    "video_url": "https://www.youtube.com/watch?v=example4"
+                },
+                {
+                    "title": "Antioxidant-Rich Foods",
+                    "description": "Include foods high in antioxidants such as berries, leafy greens, nuts, and seeds to reduce oxidative stress and inflammation in the brain.",
+                    "details": "Antioxidants help protect brain cells from damage caused by free radicals and may help preserve cognitive function.",
+                    "video_url": "https://www.youtube.com/watch?v=example5"
+                },
+                {
+                    "title": "Omega-3 Fatty Acids",
+                    "description": "Incorporate omega-3 rich foods such as fatty fish (salmon, mackerel), flaxseeds, and walnuts into your diet.",
+                    "details": "Omega-3 fatty acids support brain health, reduce inflammation, and may lower the risk of dementia.",
+                    "video_url": "https://www.youtube.com/watch?v=example6"
+                }
+            ]
+        },
+        {
+            "category": "Mental Stimulation",
+            "recommendations": [
+                {
+                    "title": "Brain Games and Puzzles",
+                    "description": "Challenge your brain with puzzles, crosswords, Sudoku, or other cognitive games to keep your mind sharp.",
+                    "details": "Regular mental stimulation promotes neural plasticity and strengthens brain connections, which can delay cognitive decline.",
+                    "video_url": "https://www.youtube.com/watch?v=example7"
+                },
+                {
+                    "title": "Learn Something New",
+                    "description": "Take up a new hobby, learn a new language, or enroll in classes to stimulate your brain and build cognitive reserves.",
+                    "details": "Learning new skills or knowledge stimulates brain activity and enhances cognitive function, reducing the risk of dementia.",
+                    "video_url": "https://www.youtube.com/watch?v=example8"
+                },
+                {
+                    "title": "Mindfulness Meditation",
+                    "description": "Practice mindfulness meditation to reduce stress, improve focus, and enhance emotional well-being.",
+                    "details": "Mindfulness meditation involves paying attention to the present moment without judgment, which can improve cognitive function and brain health.",
+                    "video_url": "https://www.youtube.com/watch?v=example9"
+                }
+            ]
+        },
+        {
+            "category": "Social Engagement",
+            "recommendations": [
+                {
+                    "title": "Stay Connected",
+                    "description": "Maintain social connections with friends, family, and community groups to prevent social isolation and loneliness.",
+                    "details": "Regular social interaction promotes emotional well-being, reduces stress, and may lower the risk of cognitive decline.",
+                    "video_url": "https://www.youtube.com/watch?v=example10"
+                },
+                {
+                    "title": "Volunteer or Join Clubs",
+                    "description": "Participate in volunteer activities or join clubs and organizations to stay engaged with others and contribute to your community.",
+                    "details": "Volunteering and community involvement provide opportunities for social interaction, purpose, and fulfillment, which are beneficial for brain health.",
+                    "video_url": "https://www.youtube.com/watch?v=example11"
+                },
+                {
+                    "title": "Pet Therapy",
+                    "description": "Interact with animals through pet therapy programs or by owning a pet to reduce stress, anxiety, and depression.",
+                    "details": "Spending time with animals can improve mood, increase socialization, and enhance overall well-being, which can benefit brain health.",
+                    "video_url": "https://www.youtube.com/watch?v=example12"
+                }
+            ]
+        }
+    ]
+}
